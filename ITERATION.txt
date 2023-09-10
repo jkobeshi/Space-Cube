@@ -1,0 +1,17 @@
+From the 6 different play testers, I recieved a bunch of great feedback. Most of the feedback
+that came from thenm focused on the Camera and how they couldn't see enought information that
+was needed. Some people said to center the Camera, others said to view the entire map, So what I did
+was I changed the center of the camera to be focused on the Cube, and on top of this, I made it so
+that players can adjust the offset of the Camera so that they can "find" the necessary information
+around them. I did not want to show the players the whole map at all times, as I wanted players to
+frequently memorize old paths. Seeing all different maps at any given time would make the game 
+much easier. Another thing I added from feedback was include Spacebar to jump on top of up arrow, as
+some people have their preferences. Playtesters also commented on the fact that they didn't know when
+they had died or won and would have liked an indicator, so I added winning and death particles, and on
+top of that, I added distinct sound for both winning and dying. I also added Audio for Jumping, Switching
+Gravity, and Teleporting. One other thing I heard from a playtester was that they wanted an gravity
+direction indcator. I wanted to add this as well and thought it would be a great addition, but I 
+couldn't get around to it since I thought it was a low priority task, and I need to sleep. Some of the
+playtesters also talked about having the ability to teleport and/or switch gravity without having to touch
+the ground. I did not add this since it would make many of my obstacles obselete and pointless, since you
+could simply "fly" by switching on and off gravity.

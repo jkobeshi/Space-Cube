@@ -1,0 +1,3 @@
+The one novel mechanic I have for my game is to change space, hence why the game is called Space Cube.
+The Cube can reverse the direction of gravity and hop to another "Universe" 50 units over in order
+to collect the objective object, the Yellow/Orange Diamond.

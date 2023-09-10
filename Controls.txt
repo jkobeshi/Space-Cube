@@ -1,0 +1,12 @@
+Player Controls:
+	- Movement: left & right arrow keys
+	- Jump: Spacebar/up arrow key
+	- Gravity change: z
+	- Teleport: x
+
+Camera Controls:
+	- Camera Offset Shift: w, a, s, d
+	- Reset Camera Offset: r
+
+Game Controls:
+	- Back to Menu: p
